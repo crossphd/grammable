@@ -51,5 +51,7 @@ gem 'sprockets', '2.11.0'
 gem 'sass-rails'
 gem 'simple_form'
 gem 'devise', '>= 3.2.4'
-gem "factory_girl_rails", "~> 4.0"
-
+gem 'factory_girl_rails', '~> 4.0'
+gem 'carrierwave', '>= 1.0.0.beta', '< 2.0'
+gem 'figaro'
+gem 'fog'
