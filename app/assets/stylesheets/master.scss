@@ -1,8 +1,7 @@
-@import "bootstrap-sprockets";
-@import "bootstrap";
 
 body {
   background-color: #fafafa;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 .top-nav {
@@ -10,4 +9,12 @@ body {
   border-bottom-color: #edeeee;
   border-bottom-width: 1px;
   border-bottom-style: solid;
+  height:70px;
+  padding-top:15px;
+}
+
+.brand {
+  color: #125688;
+  font-size: 30px;
+  font-family: 'Pacifico', cursive;
 }
