@@ -2,7 +2,7 @@
 
 #### Grammable was written in Ruby on Rails framework.
 
-Grammable is an Instagram clone app that lets users share photos with their friends and comment on those photos. Sign up [here](https://gramble-cr.herokuapp.com/) and start sharing your photos now!
+Grammable is an Instagram clone app that lets users share photos with their friends and comment on those photos. Check it out [here](https://gramble-cr.herokuapp.com/) and start sharing your photos now!
 
 ### Features:
 
